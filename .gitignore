@@ -1,0 +1,5 @@
+car_app
+app.db
+__pycache__
+migrations
+.env
